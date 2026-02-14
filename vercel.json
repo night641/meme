@@ -1,0 +1,18 @@
+   {
+      "builds": [
+        {
+          "src": "meme/main.py",
+          "use": "@vercel/python"
+        }
+      ],
+      "rewrites": [
+        {
+          "source": "/image.png",
+          "destination": "meme/main.py"
+        },
+        {
+          "source": "/(.*)",
+          "destination": "meme/main.py"
+        }
+      ]
+    }
